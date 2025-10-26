@@ -21,7 +21,7 @@ TinDog is a simple and interactive template that showcases the design of a datin
 
 ## **💻 Tech Stack**
 - **Frontend:** HTML, CSS, Bootstrap  
-- **Version Control:** Git & GitHub  
+- **Version Control:** Git & GitHub.  
 
 ---
 
